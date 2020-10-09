@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Reach me at: parthatom.github.io
+Reach me at: [parthatom.github.io](parthatom.github.io) or on [Linkedin](https://www.linkedin.com/in/p-arth-shah/)
