@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **parthatom/parthatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Parth Shah</h1>
+<h1 align="center">Hi, I'm Parth Shah</h1>
 <h3 align="center">An aspiring data scientist, a swimmer and hobbyist film maker.</h3>
 
 - 🔭 I’m currently working on Semi-Supervised and Unsupervised Representation Learning Techniques at IISc Bangalore.
