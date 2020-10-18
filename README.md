@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthatom&layout=compact" alt="parthatom stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthatom&show_icons=true" alt="parthatom" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthatom&show_icons=true&theme=radical" alt="parthatom" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/p-arth-shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="p-arth-shah" height="30" width="30" /></a>
