@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=parthatom&show_icons=true&theme=radical" alt="parthatom" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthatom&layout=compact&theme=radical" alt="parthatom stats" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthatom&layout=compact&theme=radical" alt="parthatom stats" /></p>
 
 
 <p align="center">
