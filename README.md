@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Semi-Supervised and Unsupervised Representation Learning Techniques at IISc Bangalore.
 - 🌱 I’m a third year undergrad at IIT Guwahati.
 - 💬 Ask me about **machine learning algorithms, probability, statistics.**
-- 📫 Reach me at: [parthatom.github.io](parthatom.github.io) or on [Linkedin](https://www.linkedin.com/in/p-arth-shah/)
+- 📫 Reach me at: [parthatom.github.io](https://parthatom.github.io) or on [Linkedin](https://www.linkedin.com/in/p-arth-shah/)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
