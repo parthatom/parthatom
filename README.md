@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Parth Shah</h1>
-<h3 align="center">An aspiring data scientist, a swimmer and hobbyist film maker.</h3>
+<h3 align="center">An aspiring data scientist, a swimmer and a hobbyist film maker.</h3>
 
 - 🔭 I’m currently working on Semi-Supervised and Unsupervised Representation Learning Techniques at IISc Bangalore.
 - 🌱 I’m a third year undergrad at IIT Guwahati.
