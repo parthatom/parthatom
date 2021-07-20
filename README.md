@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://linkedin.com/in/p-arth-shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="p-arth-shah" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/12613339/parth-shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12613339" height="30" width="30" /></a>
+<a href="https://datascience.stackexchange.com/users/86446/parth-shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12613339" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/parthshxh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="parthshxh" height="30" width="30" /></a>
 </p>
