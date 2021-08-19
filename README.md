@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthatom&show_icons=true&theme=radical" alt="parthatom" /></p>
 
 <p align="center">
+  <a href="https://twitter.com/parthsh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>
   <! -- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
