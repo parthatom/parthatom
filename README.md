@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthatom&show_icons=true&theme=radical" alt="parthatom" /></p>
 
 <p align="center">
-  <a href="https://twitter.com/parthsh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>
   <! -- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -43,6 +42,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+<a href="https://twitter.com/parthsh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/p-arth-shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="p-arth-shah" height="30" width="30" /></a>
 <a href="https://datascience.stackexchange.com/users/86446/parth-shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12613339" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/parthshxh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="parthshxh" height="30" width="30" /></a>
