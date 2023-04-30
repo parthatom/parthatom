@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">An aspiring data scientist, a swimmer and a hobbyist film maker.</h3>
 
 - 🔭 I’ve worked at [Publicis Sapient](https://publicissapient.com) as Data Science intern and at IISc Bangalore as a Research Intern.
-- 🌱 I’m a fourth year undergrad at IIT Guwahati.
+- 🌱 I'm a first Masters student at UCSD majoring in Machine Learning
 - 💬 Ask me about **machine learning algorithms, probability, and statistics.**
 - 📫 Reach me at: [parthatom.github.io](https://parthatom.github.io) or on [Linkedin](https://www.linkedin.com/in/p-arth-shah/) or on [Twitter](https://twitter.com/parthsh_)
 
