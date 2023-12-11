@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Parth Shah</h1>
 <h3 align="center">An aspiring data scientist, a swimmer and a hobbyist film maker.</h3>
 
-- 🔭 I’ve worked at [Publicis Sapient](https://publicissapient.com) as Data Science intern and at IISc Bangalore as a Research Intern.
-- 🌱 I'm a first Masters student at UCSD majoring in Machine Learning
+- 🔭 I’ve worked at [Signify](signify.com) - Boston, MA as an Applied Scientist Intern, [Wadhwani AI](https://www.wadhwaniai.org/) as an ML Scientist, [SketchX](https://sketchx.eecs.qmul.ac.uk/) as a Research Scientist, [Publicis Sapient](https://publicissapient.com) as Data Science intern and at IISc Bangalore as a Research Intern.
+- 🌱 I'm a Masters student at UCSD majoring in Machine Learning, graduating in March 2024.
+- 🤔 I'm looking for full-time ML engineer, Applied Scientist/Research Scientist role starting March 2024. Based on my [resume](https://parthatom.github.io/resume), if you see a good fit please feel free to reach out.
 - 💬 Ask me about **machine learning algorithms, probability, and statistics.**
 - 📫 Reach me at: [parthatom.github.io](https://parthatom.github.io) or on [Linkedin](https://www.linkedin.com/in/p-arth-shah/) or on [Twitter](https://twitter.com/parthsh_)
 
