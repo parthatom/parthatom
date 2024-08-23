@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Parth Shah</h1>
-<h3 align="center">An aspiring data scientist, a swimmer and a hobbyist film maker.</h3>
-
+<h3 align="center">A ML Engineer, a swimmer and a hobbyist film maker.</h3>
+- 🥇 I am currently a Machine Learning Engineer at [Zscaler](www.zscaler.com) working with LLMs, data pipelines and everything around it.
 - 🔭 I’ve worked at [Signify](signify.com) - Boston, MA as an Applied Scientist Intern, [Wadhwani AI](https://www.wadhwaniai.org/) as an ML Scientist, [SketchX](https://sketchx.eecs.qmul.ac.uk/) as a Research Scientist, [Publicis Sapient](https://publicissapient.com) as Data Science intern and at IISc Bangalore as a Research Intern.
-- 🌱 I'm a Masters student at UCSD majoring in Machine Learning, graduating in March 2024.
-- 🤔 I'm looking for **full-time ML engineer, Applied Scientist/Research Scientist roles** starting March 2024. Based on my [resume](https://parthatom.github.io/resume), if you see a good fit please feel free to reach out.
-- 💬 Ask me about **machine learning algorithms, probability, and statistics.**
-- 📫 Reach me at: [parthatom.github.io](https://parthatom.github.io) or on [Linkedin](https://www.linkedin.com/in/p-arth-shah/) or on [Twitter](https://twitter.com/parthsh_)
+- 🌱 I completed my Masters in ML from UCSD in March 2024 and a bachelors from IIT Guwahati in 2018.
+- 🤔 I'm always open to contributing to exciting ML projects (LLMs are a focus recently). Based on my [resume](https://parthatom.github.io/resume), if you see a good fit please feel free to reach out.
+- 💬 Ask me about **Machine Learning algorithms, Large Language Models, VAEs, Python.**
+- 📫 Reach me at: [parth.shxh@gmail.com](mailto:parth.shxh@gmail.com) or on [parthatom.github.io](https://parthatom.github.io) or on [Linkedin](https://www.linkedin.com/in/p-arth-shah/) or on [Twitter](https://twitter.com/parthsh_)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
